@@ -55,3 +55,32 @@ Clone the repo and navigate into the project folder of interest:
 ```bash
 git clone https://github.com/kuldeepk/data-engineering-portfolio.git
 cd data-engineering-portfolio/pandas-postgres-etl
+
+---
+## 📝 Notes
+
+- All projects in this portfolio are developed for **educational and demonstrative purposes**.
+- Data used in the pipelines is either **synthetic**, **open-source**, or **anonymized** to avoid any proprietary exposure.
+- These projects are designed to showcase core skills in **data ingestion**, **processing**, **storage**, **orchestration**, and **cloud deployment**.
+- Projects are intended to reflect **real-world workflows**, but may simplify or mock certain components to remain platform-neutral and lightweight.
+- Feel free to fork or reuse any project structure, but review configs and scripts before applying to production environments.
+
+---
+## 🙋‍♂️ About Me
+
+I'm **Kuldeep Kumar**, a Principal System Analyst with over 19 years of experience in system automation, scripting, and data-focused application development.
+
+I’m currently **transitioning into a cloud-native Data Engineering role**, blending my background in SQL, PL/SQL, automation, and cloud infrastructure with modern data engineering tools.
+
+This portfolio reflects my learning and growth across:
+- Batch and streaming data pipelines
+- Data modeling (relational + NoSQL)
+- Python-based data processing (Pandas, PySpark)
+- Cloud data services (AWS S3, Glue, Redshift, Athena)
+- Orchestration with Apache Airflow and infrastructure with Terraform
+
+> My goal is to join top-tier companies like Google or Microsoft in a **Senior or Principal Data Engineer role** within the next 6–9 months.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kuldeepkumar)
+- 📫 Email: [kuldeepk.engineer@gmail.com](mailto:kuldeepk.engineer@gmail.com)
+
